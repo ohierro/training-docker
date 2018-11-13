@@ -1,0 +1,1 @@
+<img src="resources/basic_diagram.png" />

@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Docker",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ohierro",
+    "githubRepository": "training-docker"
+  }
+}
