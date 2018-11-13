@@ -1,0 +1,4 @@
+## Fundamentos
+
+* chroot
+* cggroups + namespaces
