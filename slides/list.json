@@ -56,8 +56,21 @@
         "session02/01_dockerfile/install.3.md",
         "session02/01_dockerfile/entrypoint.md",
         "session02/01_dockerfile/cmd.md",
+        "session02/01_dockerfile/expose.md",
         "session02/01_dockerfile/exercise.md",
         "session02/01_dockerfile/copy.md",
         "session02/01_dockerfile/versions.md"
+    ],
+    [
+        "session02/02_dockerize/index.md",
+        "session02/02_dockerize/objetive.md",
+        "session02/02_dockerize/exercise.md",
+        "session02/02_dockerize/exercise.1.md"
+    ],
+    [
+        "session02/03_registries/index.md",
+        "session02/03_registries/docker-hub.md",
+        "session02/03_registries/custom-hub.md",
+        "session02/03_registries/configuration.md"
     ]
 ]
