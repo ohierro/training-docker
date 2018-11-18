@@ -53,8 +53,11 @@
         "session02/01_dockerfile/install.md",
         "session02/01_dockerfile/install.1.md",
         "session02/01_dockerfile/install.2.md",
+        "session02/01_dockerfile/install.3.md",
         "session02/01_dockerfile/entrypoint.md",
+        "session02/01_dockerfile/cmd.md",
         "session02/01_dockerfile/exercise.md",
-        "session02/01_dockerfile/copy.md"
+        "session02/01_dockerfile/copy.md",
+        "session02/01_dockerfile/versions.md"
     ]
 ]

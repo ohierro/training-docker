@@ -1,10 +1,9 @@
-## Instalación desde Dockerfile
+## Instalación desde contenedor
 
-RUN: Ejecuta los comandos en la creación de la imagen
-
-* `RUN apt-get update`
-* `RUN apt-get install -y nano`
+```bash
+docker commit <container> <image-name>
+```
 
 note:
-- Probar a instalar nginx
-- Los comandos deben ser automáticos (-y). 
+- crear una imágen custom-ubuntu con nano instalado
+- comentar el problema de la golden image
