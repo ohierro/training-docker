@@ -59,7 +59,8 @@
         "session02/01_dockerfile/expose.md",
         "session02/01_dockerfile/exercise.md",
         "session02/01_dockerfile/copy.md",
-        "session02/01_dockerfile/versions.md"
+        "session02/01_dockerfile/versions.md",
+        "session02/01_dockerfile/history.md"
     ],
     [
         "session02/02_dockerize/index.md",
@@ -71,6 +72,28 @@
         "session02/03_registries/index.md",
         "session02/03_registries/docker-hub.md",
         "session02/03_registries/custom-hub.md",
-        "session02/03_registries/configuration.md"
+        "session02/03_registries/configuration.md",
+        "session02/03_registries/tag.md"
+    ],
+    "session03/index.md",
+    [
+        "session03/02_docker-compose/index.md",
+        "session03/02_docker-compose/hello-world.md",
+        "session03/02_docker-compose/commands.md",
+        "session03/02_docker-compose/structure.md",
+        "session03/02_docker-compose/exercise.md",
+        "session03/02_docker-compose/exercise.1.md",
+        "session03/02_docker-compose/volumes.md",
+        "session03/02_docker-compose/volumes.1.md"
+    ],
+    [
+        "session03/03_docker-swarm/index.md",
+        "session03/03_docker-swarm/intro.md",
+        "session03/03_docker-swarm/manager.md",
+        "session03/03_docker-swarm/manager.1.md",
+        "session03/03_docker-swarm/runner.md",
+        "session03/03_docker-swarm/commands.md",
+        "session03/03_docker-swarm/services.md",
+        "session03/03_docker-swarm/scale.md"
     ]
 ]
