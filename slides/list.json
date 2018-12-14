@@ -59,7 +59,8 @@
         "session02/01_dockerfile/expose.md",
         "session02/01_dockerfile/exercise.md",
         "session02/01_dockerfile/copy.md",
-        "session02/01_dockerfile/versions.md"
+        "session02/01_dockerfile/versions.md",
+        "session02/01_dockerfile/history.md"
     ],
     [
         "session02/02_dockerize/index.md",
@@ -81,7 +82,9 @@
         "session03/02_docker-compose/commands.md",
         "session03/02_docker-compose/structure.md",
         "session03/02_docker-compose/exercise.md",
-        "session03/02_docker-compose/exercise.1.md"
+        "session03/02_docker-compose/exercise.1.md",
+        "session03/02_docker-compose/volumes.md",
+        "session03/02_docker-compose/volumes.1.md"
     ],
     [
         "session03/03_docker-swarm/index.md",
